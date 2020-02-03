@@ -1,4 +1,4 @@
-# Keylogger written in C++ that captures keystrokes and sends them to you through email
+# Keylogger written in C++ that captures keystrokes and sends data to you through email
 
 ## Usage
   ### Edit following lines in sendmail.h to your info and then compile to executable 
